@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Web/every.pt"
+		}
+	],
+
+	"ternjs": {
+        "libs": ["browser", "underscore", "jquery"],
+        "exclude": [".meteor/**", "node_modules/**"],
+        "plugins": {
+            "meteor": {}
+        }
+    }
+}

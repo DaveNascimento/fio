@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"add ",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Web/clashfragrances.com/application/views/master.php",
+		"/Web/restauranteclubedejornalistas.com/2014/images/ementa-pt.png",
+		"/Web/restauranteclubedejornalistas.com/2014/sendcontact.php",
+		"/Web/restauranteclubedejornalistas.com/2014/stylesheets/main.css",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/main.js",
+		"/Web/restauranteclubedejornalistas.com/2014/index.html",
+		"/Web/restauranteclubedejornalistas.com/index.html",
+		"/Web/restauranteclubedejornalistas.com/2014/less/color.less",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/bgslider-zoom-init.js",
+		"/Web/restauranteclubedejornalistas.com/2014/stylesheets/pace.preloader.css",
+		"/Web/restauranteclubedejornalistas.com/2014/stylesheets/image-blur-effect.css",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/venobox.min.js",
+		"/Web/restauranteclubedejornalistas.com/2014/less/less-1.5.0.min.js",
+		"/Web/restauranteclubedejornalistas.com/2014/less/color-help.txt",
+		"/Web/restauranteclubedejornalistas.com/css/style.css",
+		"/Web/restauranteclubedejornalistas.com/2014/stylesheets/main-responsive.css",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Web/restauranteclubedejornalistas.com/2014/images/logo-cdj.png",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/owl.carousel.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/classie.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/bgvideo-init.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/smooth-scroll.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/slidingmenu.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/rs-init.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/retina.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/jquery.sudoSlider.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/device.min.js",
+		"/Web/restauranteclubedejornalistas.com/2014/javascripts/parallax-init.js",
+		"/Web/restauranteclubedejornalistas.com/2014/stylesheets/animate.css",
+		"/Web/restauranteclubedejornalistas.com/2014/stylesheets/main-retina.css",
+		"/Web/restauranteclubedejornalistas.com/sftp-config.json",
+		"/Web/every.pt/sftp-config.json",
+		"/Web/mailun.it/dashboard/includes/config.php",
+		"/Web/mailun.it/sftp-config.json",
+		"/Web/every.pt/application/themes/everytemp/stylesheets/base.css",
+		"/Web/every.pt/application/themes/everytemp/stylesheets/skeleton.css",
+		"/Web/every.pt/application/themes/everytemp/scripts/cycle.js",
+		"/Web/every.pt/application/themes/everytemp/stylesheets/layout.css",
+		"/Web/every.pt/application/themes/everytemp/default.php",
+		"/var/folders/88/4zpxdgr92812zxxbstt0kkqc0000gp/T/sublime-sftp-browse-1415583878/mapped/application/config/app.php",
+		"/var/folders/88/4zpxdgr92812zxxbstt0kkqc0000gp/T/sublime-sftp-browse-1415583857/mapped/cms/config/app.php",
+		"/Web/every.pt/cms/themes/everytemp/default.php",
+		"/Web/every.pt/cms/themes/elemental/description.txt",
+		"/Web/every.pt/cms/themes/everytemp/description.txt",
+		"/Web/every.pt/cms/bootstrap/configure.php",
+		"/Web/every.pt/cms/bootstrap/autoload.php",
+		"/Web/every.pt/cms/dispatcher.php",
+		"/Web/every.pt/index.php",
+		"/var/folders/88/4zpxdgr92812zxxbstt0kkqc0000gp/T/sublime-sftp-browse-1415385704/mapped/application/config/app.php",
+		"/Web/every.pt/application/index.html",
+		"/Web/every.pt/cms/composer.json",
+		"/Web/every.pt/cms/config/database.php",
+		"/Web/every.pt/cms/config/install/base/config.xml",
+		"/Web/every.pt/cms/config/app.php",
+		"/Web/every.pt/cms/config/concrete.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/viewticket.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/index.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/openticket.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/mytickets.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/header.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/admin/index.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/admin/header.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/controllers/index.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/views/default/footer.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/config/routes.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/config/profiler.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/config/constants.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/config/config.php",
+		"/Web/every.pt/work/normajean/wcmstasker/application/controllers/admin/login.php",
+		"/Web/every.pt/work/normajean/wcmstasker/install/fuse.sql",
+		"/Web/every.pt/work/normajean/wcmstasker/install/database.php",
+		"/Web/every.pt/work/normajean/wcmstasker/install/config.php",
+		"/Web/every.pt/work/normajean/wcmstasker/css/bootstrap.css",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/codeivate-st.sublime-settings",
+		"/Web/every.pt/work/normajean/wcmstasker/application/models/emails.php",
+		"/Web/every.pt/work/normajean/wcmstasker/img/logo.png",
+		"/Web/every.pt/robots.txt",
+		"/Web/every.pt/concrete/config/app.php",
+		"/Web/every.pt/concrete/composer.json",
+		"/Web/every.pt/concrete/dispatcher.php",
+		"/Web/digital.normajean.com.pt/coimbragenomics/wp-content/themes/jupiter/stylesheet/css/theme-styles.css",
+		"/Users/david/Library/Application Support/Google/Chrome/Local State",
+		"/Users/david/Downloads/ftp.digital.normajean.com.pt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Web/restauranteclubedejornalistas.com/2014"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menuProds",
+			"#2a6496",
+			"blurred",
+			"team-carousel-item",
+			"white-bg",
+			"\"white-bg\"",
+			"white-bg",
+			"hero",
+			"\n		</div>",
+			".standard-nav-white-text li > a",
+			"1500",
+			"plac",
+			".intro",
+			".news-full-with-image .news-categories span, .news-half-with-image .news-categories span, .news-fourth-with-image .news-categories span, .mk-flex-caption .flex-desc span",
+			"flex-desc",
+			"header-logo",
+			".mk-flexsldier-slideshow .mk-flex-caption",
+			".mk-flexsldier-slideshow .mk-flex-caption .flex-title",
+			"itms"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true
+}
